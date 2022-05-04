@@ -1,0 +1,47 @@
+
+.inputRight{
+    padding-top:60px;
+    padding-bottom: 20px;
+}
+.top .cardHolder {
+   justify-content:center;
+    align-items:center;
+  display:flex;
+    font-size: small;
+}
+.top .cardHolder .card{
+    display:flex;
+    margin-top: 10px;
+    
+   
+}
+.top .cardHolder .card Button{
+    margin-bottom: 40px;
+float:right;
+}
+.inputRight label{
+    justify-content:left;
+    align-items:left;
+    align-items:left;
+    text-align:left;
+}
+.inputRight form{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+.inputRight .rfid,.entry {
+    width: 1000px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+
+}
+.submit{
+    width: 1000px;
+    padding: 12px 20px;
+    background-color: #c9221f;
+    border: none;
+    cursor: pointer;
+}
